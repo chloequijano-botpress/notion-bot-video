@@ -1,0 +1,1 @@
+Using the details in the page inside the search_page_content variable. Create a response to the question that the user provided in the user_question variable. Create a string response to be stored in question_response variable.
