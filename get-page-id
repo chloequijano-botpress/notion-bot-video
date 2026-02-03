@@ -1,0 +1,3 @@
+Using the question that the user provided in variable user_question, look through the "title" keys in the page_content variable and determine which page would help to answer the question the user provided. 
+
+If that page by its title seems relevant then store the  "id" string of that page in the page_id variable
